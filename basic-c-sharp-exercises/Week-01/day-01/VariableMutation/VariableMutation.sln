@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableMutation", "VariableMutation\VariableMutation.csproj", "{011F0934-C549-4528-9AD9-C8C0A16DC1DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{011F0934-C549-4528-9AD9-C8C0A16DC1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011F0934-C549-4528-9AD9-C8C0A16DC1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011F0934-C549-4528-9AD9-C8C0A16DC1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011F0934-C549-4528-9AD9-C8C0A16DC1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22B8BC44-0B82-4371-B4D8-E90CEF05FDCA}
+	EndGlobalSection
+EndGlobal
