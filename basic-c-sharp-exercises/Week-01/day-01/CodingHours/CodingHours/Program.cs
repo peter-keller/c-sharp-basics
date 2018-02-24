@@ -16,8 +16,8 @@ namespace CodingHours
             // work hours weekly is 52
             int codingHours = (17 * 5) * 6;
             double percentage = codingHours / (52.0 * 17.0);
-            Console.WriteLine(codingHours);
-            Console.WriteLine(percentage);
+            Console.WriteLine("Hours spent with coding in a semester: " + codingHours);
+            Console.WriteLine("Percentage of coding hours: " + percentage);
         }
     }
 }
