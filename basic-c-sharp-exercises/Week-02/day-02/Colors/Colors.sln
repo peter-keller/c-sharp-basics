@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colors", "Colors\Colors.csproj", "{5C147876-BD5E-4C5A-947F-CE32DA3970D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C147876-BD5E-4C5A-947F-CE32DA3970D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C147876-BD5E-4C5A-947F-CE32DA3970D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C147876-BD5E-4C5A-947F-CE32DA3970D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C147876-BD5E-4C5A-947F-CE32DA3970D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20312F8E-E4A0-464E-815E-295E2EAC92FA}
+	EndGlobalSection
+EndGlobal
